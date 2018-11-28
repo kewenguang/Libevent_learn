@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/CLient.dir/main.cpp.o  -o CLient 
+/usr/bin/c++  -g  -levent CMakeFiles/CLient.dir/main.cpp.o  -o CLient 

@@ -4,3 +4,5 @@ project(Server)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Server main.cpp)
+
+set(CMAKE_EXE_LINKER_FLAGS "-levent")
