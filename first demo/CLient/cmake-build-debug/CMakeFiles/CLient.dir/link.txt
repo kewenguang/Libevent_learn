@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CLient.dir/main.cpp.o  -o CLient 
