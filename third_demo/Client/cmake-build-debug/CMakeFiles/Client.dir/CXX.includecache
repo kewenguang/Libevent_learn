@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sgengine/Documents/Libevent Study/third_demo/Client/main.cpp
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+errno.h
+-
+unistd.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+event.h
+-
+event2/bufferevent.h
+-
+event2/buffer.h
+-
+event2/util.h
+-
+
